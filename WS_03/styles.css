@@ -74,8 +74,8 @@ input[type="submit"]:hover {
         left: 100px;
     }
 }
-.pseudo-list li:nth-cild(odd) {
-    nackground-color: lightgray;
+.pseudo-list li:nth-child(odd) {
+    background-color: lightgray;
 }
 .pseudo-list li:nth-child(even) {
     background-color: white;

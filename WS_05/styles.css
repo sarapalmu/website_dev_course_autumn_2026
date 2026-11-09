@@ -24,7 +24,7 @@
         background-color: lightpink;
     }
 }
-@media (min-width: 60px) {
+@media (min-width: 601px) {
     .media-query-box {
         background-color: lightblue;
     }
